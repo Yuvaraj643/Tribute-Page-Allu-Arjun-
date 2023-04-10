@@ -12,3 +12,5 @@ myVideo.addEventListener('play', () => {
   myVideo.addEventListener('ended', () => {
     bgAudio.play();
 });
+
+bgAudio.play();
